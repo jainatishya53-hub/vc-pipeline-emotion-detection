@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = /var/folders/z5/spy11d2x1632tzc4rr4d4bph0000gn/T//dvc-storage
